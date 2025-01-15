@@ -76,7 +76,7 @@ const calculate = () => {
     operator = '';
 }
 
-const clear = () => {
+const clear = () => {//clears the calc
     num1 = '';
     num2 = '';
     operator = '';
